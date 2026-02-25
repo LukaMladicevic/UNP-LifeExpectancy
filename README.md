@@ -185,7 +185,7 @@ Projekat predstavlja kompletan primer primene metoda nauke o podacima na realan 
 
 ---
 
-## ▶️ Pokretanje projekta
+## Pokretanje projekta
 
 1. Klonirati repozitorijum
 2. Instalirati potrebne biblioteke
