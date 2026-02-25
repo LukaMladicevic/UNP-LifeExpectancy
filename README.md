@@ -30,6 +30,7 @@ Projekat je realizovan u Python okruženju (Jupyter Notebook) koristeći savreme
 - Izvor: WHO / Kaggle dataset  
 - Tip problema: Regresija  
 - Ciljna promenljiva: `Life expectancy`  
+- Link do skupa podataka: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 
 Skup podataka sadrži informacije o:
 
